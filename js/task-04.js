@@ -17,5 +17,3 @@ buttonInc.addEventListener("click", increment);
 
 
 console.log(counterValue);
-console.log(buttonDec);
-console.log(buttonInc);
